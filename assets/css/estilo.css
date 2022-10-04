@@ -357,10 +357,12 @@
     margin-top: 20px;
   }
   
-  #ventaspro-logo {
+  #modo-toro-logo-password {
     margin-top: 20px;
     margin-bottom: 10px;
+    width: 200px;
   }
+
   #main {
     height: 100vh;
     background: url("../../assets/img/segundaimagenindex2.jpg");
@@ -403,4 +405,159 @@
 .icono-modo-toro{
 width: 200px;
 height: 200px;
+}
+#background-modo-toro{
+  background: #2c2a2a;
+}
+#background-productos{
+  border-color: #000000;S
+}
+.navbar-modo-toro{
+  background: radial-gradient(white 0%, black 100%), rgb(42,42,42);"
+}
+.productos-fondo{
+  background: #000000;
+}
+.div-modo-toro-index-1{
+  height: 100vh;color: rgb(33, 37, 41);
+}
+.div-modo-toro-index-2{
+  width: 100%;position: absolute;left: 0;background: rgba(30,41,99,0);height: 1000px;
+}
+.div-modo-toro-index-3{
+  height: 200px;margin-left: -595px;
+}
+.h1-modo-toro{
+  color:rgb(242,245,248);font-size:56px;font-weight:bold;font-family:Roboto, sans-serif
+}
+.h3-modo-toro{
+  color:rgb(242,245,248);padding-top:0.25em;padding-bottom:0.25em;font-weight:normal
+}
+
+.navbar-logo-modo-toro-1{
+  width: 120px;height: 120px
+}
+#navbar-index-modo-toro{
+  color: white;
+    font-size: 30px;
+
+}
+.navbar-index{
+  color: #ffffff;
+}
+.index-section-1{
+  height: 50vh;
+  background: rgb(42, 42, 42);
+}
+.index-section-1-texto{
+  font-size: 30px;
+  padding: 20px;height: 50vh;
+}
+.index-section-1-texto-2{
+  font-size: 20px;
+}
+.index-caja-boton{
+  text-align: center;
+}
+#row-modo-toro{
+  height: 102px;
+}
+.index-boton{
+  background: linear-gradient(0deg, black, white), rgb(55,71,49);
+  color: rgb(181,234,193);
+  height: 50px
+  ;margin: 50px;
+}
+.direccion{
+  font-size: 18px
+}
+.instagram{
+  font-size: 58px;letter-spacing: 13px;
+}
+.twitter{
+  font-size: 59px;padding-left: 10px;
+}
+.modo-toro-copyright{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+.horarios-dias{
+  color: rgb(20,126,113);
+}
+.horarios{
+  font-size: 18px;
+}
+.footer-modo-toro{
+  background: rgb(42, 42, 42);
+}
+#navbar-modo-toro{
+  color: #ffffff;
+}
+.navbar-modo-toro-principal{
+  color: #ffffff;
+  font-size: 30px;
+}
+.navcol-modo-toro{
+  font-size: 20px;
+}
+.rutinas-section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: rgb(42,42,42);
+}
+.rutinas-titulo{
+  font-family: Oswald, sans-serif;
+  margin: 0px;
+  padding-top: 20px;
+  background: rgb(42,42,42);
+  color: rgb(50, 251, 226);
+  font-size:38px;
+}
+.rutinas-imagen{
+  width: 100%;
+  padding-top: 15px
+}
+.rutinas-texto{
+  padding: 10px;
+  margin: 0px;
+  background: rgb(42,42,42);
+}
+.button-index{
+  color: #ffffff;
+}
+.index-background-modo-toro{
+  background: url("../../assets/img/wp7578886-gym-men-wallpapers.jpg");
+  background-repeat: no-repeat;    
+  background-position: right;
+  background-size: cover;
+  
+}
+.index-background-modo-toro-2{
+  background-image: url("../../assets/img/segundaimagenindex1.jpg");
+  background-size: cover;height: 75vh;background-position: center;
+}
+.row-modo-toro-index{
+  height: 102px;
+}
+#imagen-productos{
+  height: 299px;
+}
+.productos-texto{
+  background: rgb(55,71,49);
+}
+.productos-texto-comprar{
+  font-weight: normal !important;
+   color: rgb(181, 234, 193);
+}
+.password-imagen{
+}
+.modo-toro-ingrese-usuario{
+  font-size: 20px;
+}
+.form-control{
+  background: rgb(42, 42, 42);
+}
+.form-select{
+  background: rgb(42, 42, 42);
+
 }
